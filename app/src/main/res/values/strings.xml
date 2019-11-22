@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PersonalProject</string>
+
+    <string name="error_text">An Error Occurred.</string>
+
+    <string name="note_size_title">number of notes %1$s</string>
+</resources>
